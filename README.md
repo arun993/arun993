@@ -1,4 +1,4 @@
-## 👨‍💻 About Me
+## 👨‍💻 About Me 🙂
 - 🌱 Learning: **Blockchain**, **AI**, **Web3** , **Scripting**
 - 🚀 Interests: **Open Source**, **Node Setup**, **Research** , **Programing** , **Gaming**
 

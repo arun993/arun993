@@ -37,3 +37,8 @@ center_text "Follow me on X/Twitter :"
 center_text "https://x.com/Arun__993"
 center_text "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
 echo -e "${RESET}"
+
+#TO use in scripts 
+#curl -s https://raw.githubusercontent.com/arun993/arun993/refs/heads/main/mylogo.sh | bash
+
+#sleep 3

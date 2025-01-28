@@ -3,6 +3,12 @@
 - 🚀 Interests: **Open Source**, **Node Setup**, **Research** , **Programing** , **Gaming**
 
 <div align="center">
-  
-![github contribution grid snake animation](https://raw.githubusercontent.com/arun993/arun993/refs/heads/main/github-contribution-grid-snake-dark.svg)![github contribution grid snake animation](https://raw.githubusercontent.com/arun993/arun993/refs/heads/main/github-contribution-grid-snake.svg)
+  <picture>
+    <!-- Dark theme -->
+    <source srcset="https://raw.githubusercontent.com/arun993/arun993/refs/heads/main/github-contribution-grid-snake-dark.svg" media="(prefers-color-scheme: dark)">
+    <!-- Light theme -->
+    <img src="https://raw.githubusercontent.com/arun993/arun993/refs/heads/main/github-contribution-grid-snake.svg" alt="github contribution grid snake animation">
+  </picture>
+</div>
+
 

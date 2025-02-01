@@ -32,9 +32,9 @@ echo -e "${RESET}"
 
 # Social Media Section
 echo -e "${RED}${BOLD}"
-center_text "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
-center_text "Follow me on X/Twitter :"
-center_text "https://x.com/Arun__993"
+center_text "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+center_text "Follow me on X/Twitter : https://x.com/Arun__993 "
+center_text "Github : https://github.com/arun993 "
 center_text "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
 echo -e "${RESET}"
 
